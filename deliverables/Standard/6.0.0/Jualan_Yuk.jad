@@ -1,0 +1,58 @@
+RIM-COD-URL-14: Jualan_Yuk-14.cod
+RIM-COD-SHA1-4: fc 56 7b ed 85 bd 55 da 18 d4 de ab 4b 8c bf 06 d2 37 f5 67
+RIM-COD-URL-13: Jualan_Yuk-13.cod
+RIM-COD-SHA1-3: 05 32 5e 89 54 41 68 b5 0a 07 ce e7 fb 36 a9 67 e5 83 6d 2f
+RIM-COD-URL-12: Jualan_Yuk-12.cod
+RIM-COD-SHA1-2: 15 0e 98 88 5d 62 ef ad a5 8b 07 b8 cb ce ce 0f 36 21 5b 3c
+RIM-COD-URL-11: Jualan_Yuk-11.cod
+RIM-COD-SHA1-1: af 00 9c 50 98 c3 10 2d aa 40 07 1a 47 89 ad 0b 6a 3b 57 de
+RIM-COD-URL-10: Jualan_Yuk-10.cod
+RIM-MIDlet-Flags-1: 0
+MIDlet-Jar-Size: 1287828
+MIDlet-Name: Jualan Yuk
+MIDlet-Jar-URL: Jualan Yuk.jar
+MicroEdition-Configuration: CLDC-1.1
+RIM-COD-URL-9: Jualan_Yuk-9.cod
+RIM-COD-URL-8: Jualan_Yuk-8.cod
+RIM-COD-URL-7: Jualan_Yuk-7.cod
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_networkapi,net_rim_bb_browser_field2_api,net_rim_xml_org,net_rim_os,net_rim_bbapi_browser
+RIM-COD-URL-6: Jualan_Yuk-6.cod
+RIM-COD-URL-5: Jualan_Yuk-5.cod
+RIM-COD-URL-4: Jualan_Yuk-4.cod
+RIM-COD-URL-3: Jualan_Yuk-3.cod
+RIM-COD-URL-2: Jualan_Yuk-2.cod
+RIM-COD-URL-1: Jualan_Yuk-1.cod
+RIM-COD-Size-9: 41656
+RIM-COD-Size-8: 49476
+RIM-COD-Size-7: 40508
+RIM-COD-Size-6: 48508
+RIM-COD-Size-5: 50164
+RIM-COD-Size-4: 50164
+RIM-COD-Size-3: 55572
+RIM-COD-Module-Name: Jualan_Yuk
+RIM-COD-Size-2: 54752
+RIM-COD-Size-1: 25116
+RIM-COD-SHA1: 36 11 1b cc e7 5b 71 df 0b 97 1b db 43 87 aa bf b1 e7 30 82
+RIM-COD-Size: 66132
+RIM-COD-Size-14: 50164
+MicroEdition-Profile: MIDP-2.0
+RIM-COD-Size-13: 53544
+RIM-COD-Size-12: 50260
+RIM-COD-Size-11: 57576
+RIM-COD-Size-10: 56552
+MIDlet-Vendor: BlackBerry Developer
+MIDlet-1: ,img/icon-jualanyuk.png,
+RIM-COD-SHA1-14: e6 49 6f 5f 36 a6 c7 95 27 d2 1b 40 37 26 8d 66 f6 bb a9 4f
+RIM-COD-URL: Jualan_Yuk.cod
+RIM-COD-SHA1-13: 04 b3 94 4d 31 74 c9 96 b9 f8 fa 47 4d 66 b5 8f a2 85 01 45
+RIM-COD-SHA1-12: 58 ef 2b 64 42 1d d7 1c 4e f1 d2 86 0a 3f d7 dc 43 57 e4 19
+RIM-COD-SHA1-11: 4b c7 30 75 df e3 56 3e df 23 9b db 4e 9c 4b 23 78 fd 8f 3a
+RIM-COD-SHA1-10: 41 73 90 c3 2a ee 67 05 d7 2c 84 fa dd 2c d5 cb 51 d9 7d 0a
+Manifest-Version: 1.0
+MIDlet-Version: 1.0.0
+RIM-COD-SHA1-9: 41 23 96 0a c8 6d 9f 34 b3 6b 96 3b 93 95 4d a6 a9 08 4d 05
+RIM-COD-SHA1-8: 06 95 11 9a 22 76 c0 7e 7e d2 ed 0e 2e 68 28 e0 e5 c7 7d f6
+RIM-COD-SHA1-7: 34 65 f2 43 ef ef 90 52 85 f3 3d e2 33 e1 d9 e3 b2 34 5c dd
+RIM-COD-Creation-Time: 1396500578
+RIM-COD-SHA1-6: c9 28 36 41 43 de 0f 29 1a 95 59 18 44 1a 0c 78 f8 35 70 82
+RIM-COD-SHA1-5: 84 ad ad ff 56 cb 75 bf ac ce 0f 17 3d 81 27 f8 98 f8 3b b2
